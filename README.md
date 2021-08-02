@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nolt23yay
+- 👋 Hi, I’m nolt23
 - 👀 I’m interested in learn scripting
 - 🌱 I’m currently learning Lua scripting
 - 💞️ I’m looking to collaborate on ...
